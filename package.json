@@ -1,0 +1,22 @@
+{
+  "name": "discord.bot.discovery",
+  "version": "1.0.0",
+  "description": "Test Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Btreboni/discord.bot.discovery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Btreboni/discord.bot.discovery/issues"
+  },
+  "homepage": "https://github.com/Btreboni/discord.bot.discovery#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
